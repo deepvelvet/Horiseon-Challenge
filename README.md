@@ -4,13 +4,13 @@
 
 ## CSS was updated to semantic structure changes in HTML
 
-![GitHub Logo](/images/Screen Shot 2022-08-08 at 8.23.31 PM.png)
-![GitHub Logo](/images/Screen Shot 2022-08-08 at 8.23.44 PM.png)
-![GitHub Logo](/images/Screen Shot 2022-08-08 at 8.24.39 PM.png)
+(Develop/assets/images/Screen Shot 2022-08-08 at 8.23.31 PM.png)
+(Develop/assets/images/Screen Shot 2022-08-08 at 8.23.44 PM.png)
+(Develop/assets/images/Screen Shot 2022-08-08 at 8.24.39 PM.png)
 
 ## Links were fixed in the nav section
 
-![GitHub Logo](/images/mainpage.jpg)
+(Develop/assets/images/mainpage.jpg)
 
 
 ## Built With
