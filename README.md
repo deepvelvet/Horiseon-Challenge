@@ -5,7 +5,9 @@
 ## CSS was updated to semantic structure changes in HTML
 
 ![screengrab1](Develop/assets/images/Screen Shot 2022-08-08 at 8.23.31 PM.png)
-![screengrab2](Develop/assets/images/Screen Shot 2022-08-08 at 8.23.44 PM.png)
+
+![screengrab2](Develop/assets/images/Screen Shot 2022-08-08 at 8.23.44 PM.png),
+
 ![screengrab3](Develop/assets/images/Screen Shot 2022-08-08 at 8.24.39 PM.png)
 
 ## Links were fixed in the nav section
